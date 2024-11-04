@@ -54,7 +54,7 @@ everyone attending to follow it.
   * You! - any help with organizing is highly appreciated!
   * Lukas Vrabec
   * Jakub Jelen <jakuje@gmail.com>
-  * Matteo Lodi
+  * Matteo Lodi - [X](https://x.com/matte_lodi) - [Lnkdn](https://www.linkedin.com/in/matteo-lodi-90/)
   * Tomas Mraz
   * Simon Josefsson <simon@josefsson.org> Mastodon: [@jas4711](https://infosec.exchange/web/@jas4711)
 
